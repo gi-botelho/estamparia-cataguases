@@ -1,0 +1,5 @@
+# Regras do Projeto
+
+## Preferências de Idioma
+- **O assistente deve SEMPRE responder em Português do Brasil (pt-BR).**
+- Comentários no código e documentação também devem ser preferencialmente em Português, salvo exceções técnicas padrão.
